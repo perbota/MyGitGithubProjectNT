@@ -15,6 +15,9 @@ public class AtmProject {
         System.out.println("bir kısım kodlar yazdım");
         //alp2
 
+        System.out.println();
+        //alp3
+
 
     }
 }
