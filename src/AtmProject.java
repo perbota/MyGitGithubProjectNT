@@ -12,6 +12,9 @@ public class AtmProject {
         System.out.println("alp branchi kodlar yazdı");
         //version alp1
 
+        System.out.println("bir kısım kodlar yazdım");
+        //alp2
+
 
     }
 }
