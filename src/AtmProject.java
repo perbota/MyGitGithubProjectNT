@@ -19,7 +19,7 @@ public class AtmProject {
         //alp3
         System.out.println();
         //localde değişiklik yaptım.
-        //remoteda değişiklik yaptım
+        //remoteda değişiklik yaptım 
 
 
 
